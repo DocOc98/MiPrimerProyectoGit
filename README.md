@@ -1,10 +1,10 @@
 #Titulo del Proyecyo
--Indice de Masa Corporal
+- Indice de Masa Corporal
 #Descripción
--Este proyecto consiste en la creacion de un software que calcule en Indice de Masa Corporal (IDH) de una persona en relación a su peso y altura, y su situacion de acuerdo a los datos proporcionados por la Organización Mundial de la Salud (OMS).
+- Este proyecto consiste en la creacion de un software que calcule en Indice de Masa Corporal (IDH) de una persona en relación a su peso y altura, y su situacion de acuerdo a los datos proporcionados por la Organización Mundial de la Salud (OMS).
 #Comenzando el Proyecto
 #Dependencias
--si se desea ver el código para una posterior, se requiere el uso de un compilador del Lenguaje C++
+- si se desea ver el código para una posterior, se requiere el uso de un compilador del Lenguaje C++
 ##Instalacion
 - Este proyecto cuenta con un ejecutable propio, el cual NO REQUIERE INSTALACION
 -* En caso que no funcione, se aconceja emplear un compilador de código e insertar el código brindado
@@ -17,9 +17,9 @@ ACLARACION: Al ingresar un numero real no entero, NO EMPLEAR COMA (,), sino punt
 #Autor
 -Hernan Octavio de la Vega [@DocOc98](h.o.delavega@gmail.com)
 #versiones
--2.0
+- 2.0
   - Initial Release
--1.0
+- 1.0
   - Not Available Online
 #Licencia 
--GPL
+- GPL
