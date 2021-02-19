@@ -1,4 +1,4 @@
-#Titulo del Proyecyo
+#Titulo del Proyecto
 - Indice de Masa Corporal
 #Descripción
 - Este proyecto consiste en la creacion de un software que calcule en Indice de Masa Corporal (IDH) de una persona en relación a su peso y altura, y su situacion de acuerdo a los datos proporcionados por la Organización Mundial de la Salud (OMS).
